@@ -1,2 +1,2 @@
 # GIT
-HW 2
+GIT Homework 2
